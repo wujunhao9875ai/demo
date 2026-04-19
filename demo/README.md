@@ -101,8 +101,6 @@ python server.py
 
 - 本项目仅供学习和研究使用
 - API Key 请勿泄露给他人
-- 知识库文档为企业内部资料，请勿外传
+- 知识库文档为ai生成的企业内部资料
 
-## License
 
-MIT License
